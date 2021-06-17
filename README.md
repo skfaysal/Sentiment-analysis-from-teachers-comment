@@ -30,3 +30,18 @@
   <dd>- Inside Folder "sentiment using CNN and GRU/sentiment_without_trained_word_embeddings_matrix"</dd>
  </dl>    
 </p>
+
+## Run Project
+
+Clone the project
+
+```bash
+  git clone https://github.com/skfaysal/Student-Dropout-Prediction.git
+```
+
+Go to the directory of desired approach
+Example: for running naive bayes
+```bash
+  cd Sentiment-analysis-from-teachers-comment/Naive Bayes
+  python3 naivebayes.py
+```
