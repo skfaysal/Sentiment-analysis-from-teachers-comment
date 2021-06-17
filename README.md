@@ -40,8 +40,14 @@ Clone the project
 ```
 
 Go to the directory of desired approach \
-Example: for running naive bayes
+Example:\
+For running Naive Bayes:
 ```bash
   cd Sentiment-analysis-from-teachers-comment/Naive Bayes
   python3 naivebayes.py
+```
+For running CNN,GRU architecture without trained Word Embeddings:
+```bash
+  cd Sentiment-analysis-from-teachers-comment/sentiment using CNN and GRU/sentiment_without_trained_word_embeddings_matrix
+  python3 sentiment_without_trained_word_embeddings_matrix.py
 ```
