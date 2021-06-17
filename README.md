@@ -20,7 +20,7 @@
 <h3 align="center">Sentiment Analysis Of Teachers Comment</h3>
 
 ## Project Overview
-<p align="left"> In this project i've sentiment analysis using 2 approach:
+<p align="left"> In this project i've done sentiment analysis using 3 approach:
  <dl>
    <dt> Naive Bayes</dt>
    <dd>- Inside folder "Naive Bayes"</dd>
