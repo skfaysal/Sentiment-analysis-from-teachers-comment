@@ -20,13 +20,13 @@
 <h3 align="center">Sentiment Analysis Of Teachers Comment</h3>
 
 ## Project Overview
-<p align="left"> In this project i've sentiment analysis using 3 approach:
+<p align="left"> In this project i've sentiment analysis using 2 approach:
  <dl>
    <dt> Naive Bayes</dt>
-   <dd>- Inside folder "Naive Bayes" run:</dd>
-```bash
-  python3 dropout_model_training.py
-```
- </dl>
-     
+   <dd>- Inside folder "Naive Bayes"</dd>
+  <dt> Using Neural Network with pretrained word embeddings</dt>
+  <dd>- Inside Folder "sentiment using CNN and GRU/sentiment_with_trained_word_embeddings_matrix"</dd>
+  <dt> Using Neural Network without pretrained word embeddings</dt>
+  <dd>- Inside Folder "sentiment using CNN and GRU/sentiment_without_trained_word_embeddings_matrix"</dd>
+ </dl>    
 </p>
