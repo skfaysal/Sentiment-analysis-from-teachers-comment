@@ -24,9 +24,9 @@
  <dl>
    <dt> Naive Bayes</dt>
    <dd>- Inside folder "Naive Bayes" run:</dd>
-     ```bash
-     python3 naivebayes.py.py
-     ```
+```bash
+  python3 dropout_model_training.py
+```
  </dl>
      
 </p>
