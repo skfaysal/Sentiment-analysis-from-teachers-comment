@@ -39,7 +39,7 @@ Clone the project
   git clone https://github.com/skfaysal/Student-Dropout-Prediction.git
 ```
 
-Go to the directory of desired approach
+Go to the directory of desired approach \
 Example: for running naive bayes
 ```bash
   cd Sentiment-analysis-from-teachers-comment/Naive Bayes
