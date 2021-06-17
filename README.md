@@ -23,10 +23,10 @@
 <p align="left"> In this project i've sentiment analysis using 3 approach:
  <dl>
    <dt> Naive Bayes</dt>
-   <dd>- Inside folder "Naive Bayes" run:
+   <dd>- Inside folder "Naive Bayes" run:</dd>
      ```bash
      python3 naivebayes.py.py
-     ```</dd>
+     ```
  </dl>
      
 </p>
