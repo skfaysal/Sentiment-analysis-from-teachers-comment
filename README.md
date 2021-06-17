@@ -18,3 +18,6 @@
 ## Project Title
 
 <h3 align="center">Sentiment Analysis Of Teachers Comment</h3>
+
+## Project Overview
+<p align="left"> In this project i've sentiment analysis using 3 approach: </p>
